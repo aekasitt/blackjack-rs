@@ -1,0 +1,9 @@
+# Ignore build target for Rust compilation
+/target
+
+# Ignore visual studio code workspace settings
+.vscode
+.idea
+
+# Ignore macOS directory indexer
+**/.DS_Store
